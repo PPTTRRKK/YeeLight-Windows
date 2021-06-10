@@ -3,6 +3,9 @@ This is a simple python program to control your yeelight bulbs with a tray icon 
 
 To make your light bulb working with this application you need to activate LAN control on the mobile app. If this option isn't available for your bulb you need to install an older version of the app. When this application releases I will link an apk to download an older version with the same functionality + LAN control.
 
+How I plan to release the app:
+I will use a tool to convert the python files to an executable file. Then I will package it to a MSIX package. Then I'll sell it on the Microsoft Store. I dont know if this will work.
+
 Planned features:
  - Settings:
    - Choose what happens when left-clicking the icon(default: toggle)
