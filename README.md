@@ -9,3 +9,4 @@ Planned features:
  - - Change colors of RGB flow
  - Support for other devices like light strips(testing not possible because I dont have any other devices)
  - Sell the program somewhere because I need money
+ - Create an icon for every connected bulb
